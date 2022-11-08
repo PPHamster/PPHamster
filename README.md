@@ -14,8 +14,8 @@
 
 ### How to reach me :
 
-[<img align="left" alt="facebook" width="30px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/800px-Facebook_f_logo_%282021%29.svg.png" />][facebook]
-[<img align="left" alt="youtube" width="30px" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-youtube-social-media-round-icon-png-image_6315993.png" />][youtube]
+[<img align="left" alt="facebook" width="30px" src="./img/facebookLogo.png" />][facebook]
+[<img align="left" alt="youtube" width="30px" src="./img/youtubeLogo.png" />][youtube]
 
 <br />
 
@@ -23,6 +23,9 @@
 
 <img align="languages" height="30" src="https://skillicons.dev/icons?i=vscode,eclipse,java,js,ts,nodejs,react,nextjs,tailwindcss,mysql,mongodb,git,docker,firebase"  />
 
-  
+```
+"Love is nothing but a bug in the brain's electrical circuitry" - Ryuunosuke Akasaka from The Pet Girl of Sakurasou
+```
+
 [facebook]: https://www.facebook.com/ShinnapatPP
 [youtube]: https://www.youtube.com/channel/UC8KmM4h4TQBhEbmRO2-
