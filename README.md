@@ -2,14 +2,14 @@
 
 ## 🧑‍🎓 Talking about me
 - 🏫 I'm a regular computer engineering student at KMUTT as a sophomore.
-- 👀 I’m interested in backend developer
+- 👀 I’m interested in back-end developer
 - ✍ I’m currently learning everything that's necessary in the backend
 - 📖 I have a little front-end skill too
 - 💪 A little more : I usually like to execise and watching anime
  
 ## 🎯 Practice Experiences
-- **Assistant backend developer** in **[Comcamp 33](https://github.com/cpe-kmutt-student/comcamp33)**
-- **Assistant backend developer** in **[Bangmod Hackathon 2023](https://github.com/cpe-kmutt-student/bangmod-hackathon-2023)**
+- **Back-end developer assistant** in **[Comcamp 33](https://github.com/cpe-kmutt-student/comcamp33)**
+- **Back-end developer assistant** in **[Bangmod Hackathon 2023](https://github.com/cpe-kmutt-student/bangmod-hackathon-2023)**
 - **Full Stack developer** in **[pp-anilist](https://github.com/PPHamster/anime-list)**
 
 ### How to reach me :
@@ -24,7 +24,7 @@
 <img align="languages" height="30" src="https://skillicons.dev/icons?i=vscode,eclipse,java,js,ts,nodejs,react,nextjs,tailwindcss,mysql,mongodb,git,docker,firebase"  />
 
 ```
-"Love is nothing but a bug in the brain's electrical circuitry" - Ryuunosuke Akasaka from The Pet Girl of Sakurasou
+"Love is nothing more than a bug in the brain's electrical circuitry" - Ryuunosuke Akasaka from The Pet Girl of Sakurasou
 ```
 
 [facebook]: https://www.facebook.com/ShinnapatPP
