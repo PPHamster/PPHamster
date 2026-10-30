@@ -1,15 +1,55 @@
-# 👋 I'm Shinnapat Koparamestrisin - PPHamster
+<h1 align="center">Hi, I'm Shinnapat Koparamestrisin 👋</h1>
 
-### 🧑‍🎓 About me
-- 🏫 I'm a regular computer engineering student at KMUTT as a senior
-- 👀 I’m interested in back-end developer
-- ✍ I’m currently learning everything that's necessary in the backend
-- 📖 I have a little front-end skill too
-- 💪 A little more : I always go to the gym and exercise
+<p align="center">
+  <a href="https://github.com/PPHamster">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Backend+Software+Engineer;%40+Lodash+(Thailand)+Co.%2C+Ltd.;TypeScript+%C2%B7+Go+%C2%B7+Python;Lifting+weights+%26+shipping+APIs" alt="Typing SVG" />
+  </a>
+</p>
 
-### 🔧 Tools and Languages
+---
 
-<img align="languages" height="80" src="https://skillicons.dev/icons?i=java,js,ts,nodejs,bun,py,elysia,react,nextjs,tailwind,mysql,mongodb,redis,rabbitmq,cypress,docker,nginx,linux&theme=light&perline=9"  />
+### 🧑‍💻 About me
+
+<img align="right" src="img/ragnarok.gif" width="160" alt="Poring buddy" />
+
+- 💼 **Backend Software Engineer** at **Lodash (Thailand) Co., Ltd.**
+- ⚙️ Building APIs, event-driven services and the data plumbing behind them
+- 🎨 Comfortable on the front-end too with Next.js & React
+- 💪 Off the keyboard, you'll find me at the gym
+
+<br clear="right" />
+
+### 🔧 Tech Stack
+
+**Languages**<br />
+<img src="https://skillicons.dev/icons?i=ts,js,go,py" alt="Languages" />
+
+**Backend & Frameworks**<br />
+<img src="https://skillicons.dev/icons?i=nodejs,bun,elysia,express,nestjs,fastapi,nextjs,react" alt="Backend & Frameworks" />
+
+**Data & Messaging**<br />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,rabbitmq" alt="Data & Messaging" />
+
+**Cloud & DevOps**<br />
+<img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes,nginx,linux" alt="Cloud & DevOps" />
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=PPHamster&hide_border=true&theme=github-dark-blue" />
+    <img height="170" src="https://streak-stats.demolab.com?user=PPHamster&hide_border=true" alt="GitHub streak" />
+  </picture>
+</p>
+
+### 🐍 Commit Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PPHamster/PPHamster/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/PPHamster/PPHamster/output/github-snake.svg" alt="Snake eating my contributions" />
+</picture>
+
+---
 
 ```
 "Love is nothing more than a bug in the brain's electrical circuitry" - Ryuunosuke Akasaka from The Pet Girl of Sakurasou
