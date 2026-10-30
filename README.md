@@ -31,9 +31,9 @@
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,rabbitmq" alt="Data & Messaging" />
 
 **Cloud & DevOps**<br />
-<img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes,nginx,linux" alt="Cloud & DevOps" />
+<img src="https://skillicons.dev/icons?i=gcp,workers,docker,kubernetes,nginx,linux" alt="Cloud & DevOps" />
 
-### 📊 GitHub Stats
+<br />
 
 <p align="center">
   <picture>
@@ -42,15 +42,15 @@
   </picture>
 </p>
 
-### 🐍 Commit Snake
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PPHamster/PPHamster/output/github-snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/PPHamster/PPHamster/output/github-snake.svg" alt="Snake eating my contributions" />
 </picture>
 
----
+<br />
 
-```
-"Love is nothing more than a bug in the brain's electrical circuitry" - Ryuunosuke Akasaka from The Pet Girl of Sakurasou
-```
+<p align="center">
+  <i>“Love is nothing more than a bug in the brain's electrical circuitry.”</i>
+  <br />
+  <sub>— Ryuunosuke Akasaka, <b>The Pet Girl of Sakurasou</b></sub>
+</p>
